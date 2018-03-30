@@ -1,6 +1,6 @@
 <template lang="pug">
 .container
-  h1 index
+  h1 login
 </template>
 
 <script>
